@@ -1,5 +1,5 @@
 # technicaltest
-My technical test.
+My technical test:
 
 to get results, run 2 ipynb file in repo.
 
